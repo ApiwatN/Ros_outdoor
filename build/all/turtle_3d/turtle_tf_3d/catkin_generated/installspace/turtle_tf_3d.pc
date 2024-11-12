@@ -1,8 +1,0 @@
-prefix=/home/simulations/public_sim_ws/install
-
-Name: turtle_tf_3d
-Description: Description of turtle_tf_3d
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

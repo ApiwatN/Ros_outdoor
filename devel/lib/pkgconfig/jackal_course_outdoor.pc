@@ -1,8 +1,0 @@
-prefix=/home/simulations/public_sim_ws/devel
-
-Name: jackal_course_outdoor
-Description: Description of jackal_course_outdoor
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
