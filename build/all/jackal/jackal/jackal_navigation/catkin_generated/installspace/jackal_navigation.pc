@@ -1,0 +1,8 @@
+prefix=/home/simulations/public_sim_ws/install
+
+Name: jackal_navigation
+Description: Description of jackal_navigation
+Version: 0.5.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
